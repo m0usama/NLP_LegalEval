@@ -1,3 +1,0 @@
-spacy
-bs4
-urllib3
